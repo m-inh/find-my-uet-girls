@@ -2,8 +2,11 @@
 Đây là dự án vui là chính, nội dung dựa vào chính các bạn đóng góp (và code cũng thế). Nên cứ thoải mái đóng góp để dự án hoàn thiện hơn nhé :D
 
 ## Danh sách công việc
-- [ ] Lên danh sách những chức năng
-- [ ] Mockup giao diện đơn giản
+- [x] Lên danh sách những chức năng
+- [x] Mockup giao diện trang chủ, [ảnh](./docs/home-page-mockup.png)
+- [ ] Mockup giao diện trang phụ
+- [ ] Mockup giao diện trang sống ảo
+- [ ] Mockup giao diện trang Ảnh của tôi
 - [ ] Tạo cấu trúc dự án trên github
 - [ ] Deploy lên Github Page
 
